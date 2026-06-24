@@ -1,0 +1,7 @@
+title: Skill Slash Commands
+description: Adds /skill autocomplete to the Agent Zero chat composer and activates matched skills through Agent Zero's native Skills API.
+github: https://github.com/Jehu/a0-skills-slash-command
+tags:
+  - tools
+  - workflow
+  - development
