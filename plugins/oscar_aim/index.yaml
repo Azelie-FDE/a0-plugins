@@ -1,0 +1,11 @@
+title: OSCAR Gateway
+description: Exposes authorized Agent Zero profiles as private OSCAR buddies, with persistent conversations, durable agent mesh control, bounded recovery, and private Tailscale connectivity.
+github: https://github.com/TerminallyLazy/oscar_aim
+tags:
+  - agents
+  - integration
+  - workflow
+  - security
+  - ui
+screenshots:
+  - https://raw.githubusercontent.com/TerminallyLazy/oscar_aim/main/docs/screenshots/dashboard.png
