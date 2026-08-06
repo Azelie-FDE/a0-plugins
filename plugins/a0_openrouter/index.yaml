@@ -1,14 +1,13 @@
 title: OpenRouter Gateway
 description: >-
-  One OpenRouter API key for every modality LiteLLM cannot reach: native image
-  generation with image-to-image, text-to-speech with live voice preview,
-  audio transcription, async video generation, multimodal embeddings, and
-  model catalog search. Integrates as a voice provider for Agent Zero's
-  built-in read-aloud. Model fields auto-suggest live from the OpenRouter
-  catalog.
+  One OpenRouter key, five new modalities for Agent Zero: image
+generation with image-to-image, multilingual text-to-speech, audio
+transcription, async video generation, and multimodal embeddings.
+Includes read-aloud voice integration and model catalog search.
 github: https://github.com/Jehu/a0-openrouter-gateway
 tags:
   - tools
   - integration
   - api
   - llm
+
